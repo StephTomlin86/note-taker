@@ -1,22 +1,14 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "An application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/StephTomlin86/note-taker.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/StephTomlin86/note-taker/issues"
-  },
-  "homepage": "https://github.com/StephTomlin86/note-taker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.16.4"
   }
 }
